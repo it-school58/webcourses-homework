@@ -4,8 +4,6 @@
 
 ---
 
-[Yandex](https://yandex.ru/)
-
 ### Курс по HTML и CSS
 - [Задание 1: Структура, пути, цвета, селекторы](lesson1-selectors/readme.md)
 - [Задание 2: Текст, изображения](lesson2-text-img/readme.md)
