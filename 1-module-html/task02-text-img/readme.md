@@ -11,7 +11,7 @@
 
 ### Изображение
 
-<img src="./img/img1.png" alt="..." />
+<img src="./img/img1.png" />
 
 ---
 
