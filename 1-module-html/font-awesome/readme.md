@@ -1,5 +1,5 @@
 
-## fieldset, attr, Font Awesome
+## Font Awesome
 
 > **⚡️ Домашнее задание**
 - Создать веб-страницу - шпаргалку для font-awesome

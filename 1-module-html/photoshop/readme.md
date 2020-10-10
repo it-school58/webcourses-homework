@@ -1,5 +1,5 @@
 
-## Photoshop, Figma и Pixel Perfect
+## Photoshop и Pixel Perfect
 
 > **⚡️ Домашнее задание**
 

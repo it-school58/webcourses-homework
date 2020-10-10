@@ -1,5 +1,5 @@
 
-##  Адаптивность, CSS Grid
+##  Адаптивность и CSS Grid
 
 > **⚡️ Домашнее задание #1**
 - Пройти игру https://cssgridgarden.com/#ru
