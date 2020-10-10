@@ -1,7 +1,7 @@
 
 ### Домашнее задание по курсу HTML и CSS
 - [`Задание 1:` Структура, пути, цвета, селекторы](1-module-html/task01-selectors/readme.md)
-- [Задание 2: Текст, изображения](1-module-html/task02-text-img/readme.md)
+- [`Задание 2:` Текст, изображения](1-module-html/task02-text-img/readme.md)
 - [Задание 3: Прозрачность, блочные и строчные элементы](1-module-html/task03-block/readme.md)
 - [Задание 4: Flexbox](1-module-html/task04-flexbox/readme.md)
 - [Задание 5: Создание меню (ссылки, списки, hover, transition)](1-module-html/task05-menu/readme.md)
