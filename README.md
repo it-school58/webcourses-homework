@@ -1,10 +1,5 @@
-**Домашние задания для курсов:**
-- Курс по HTML и CSS	
-- Курс по JavaScript
 
----
-
-### Курс по HTML и CSS
+### Домашнее задание по курсу HTML и CSS
 - [Задание 1: Структура, пути, цвета, селекторы](1-module-html/task01-selectors/readme.md)
 - [Задание 2: Текст, изображения](1-module-html/task02-text-img/readme.md)
 - [Задание 3: Прозрачность, блочные и строчные элементы](1-module-html/task03-block/readme.md)
@@ -27,7 +22,7 @@
 
 ---
 
-### Курс по JavaScript
+### Домашнее задание по курсу JavaScript
 - [Задание 1: Подключение файлов JS, типы данных, вывод сообщений в консоль](2-module-js/task01-include/readme.md)
 - [Задание 2: Виды кавычек, вывод сообщений пользователю, условные операторы](2-module-js/task02-alert/readme.md)
 - [Задание 3: Методы innerText и innerHTML, Функции, События](2-module-js/task03-functions/readme.md)
@@ -42,3 +37,4 @@
 - [Задание 12: Сборщики и ES-6 модули](2-module-js/task12-builders/readme.md)
 - [Задание 13: Дата и время](2-module-js/task13-datetime/readme.md)
 - [Задание 14: Gulp](2-module-js/task14-gulp/readme.md)
+
