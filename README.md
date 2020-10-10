@@ -25,9 +25,7 @@
 - [Задание 18: БЭМ](1-module-html/task18-bem/readme.md)
 - [Задание 19: CSS Shapes и SVG](1-module-html/task19-svg/readme.md)
 
-
 ---
-
 
 ### Курс по JavaScript
 - [Задание 1: Подключение файлов JS, типы данных, вывод сообщений в консоль](2-module-js/task01-include/readme.md)
@@ -36,16 +34,11 @@
 - [Задание 4: Обращение к css свойствам, массивы и циклы](2-module-js/task04-array/readme.md)
 - [Задание 5: Атрибуты, инкремент и декремент](2-module-js/task05-attr/readme.md)
 - [Задание 6: Объекты](2-module-js/task06-objects/readme.md)
-
----
-
-- [7,8 Задание 7: Классы, стрелочные функции и исключения](2-module-js/task07-class/readme.md)
-- [10 Задание 8: Циклы для перебора массивов forEach, filter, map, every/some](2-module-js/task08-foreach/readme.md)
-- [11 Задание 9: Local Storage](2-module-js/task09-local-storage/readme.md)
-- [12 Задание 10: Методы работы с массивами](2-module-js/task10-methods-array/readme.md)
-- [13 Задание 11: Асинхронность](2-module-js/task11-async/readme.md)
-- [16 Задание 12: Сборщики и ES-6 модули](2-module-js/task12-builders/readme.md)
-- [17 Задание 13: Дата и время](2-module-js/task13-datetime/readme.md)
-
-
-
+- [Задание 7: Классы, стрелочные функции и исключения](2-module-js/task07-class/readme.md)
+- [Задание 8: Циклы для перебора массивов forEach, filter, map, every/some](2-module-js/task08-foreach/readme.md)
+- [Задание 9: Local Storage](2-module-js/task09-local-storage/readme.md)
+- [Задание 10: Методы работы с массивами](2-module-js/task10-array-methods/readme.md)
+- [Задание 11: Асинхронность](2-module-js/task11-async/readme.md)
+- [Задание 12: Сборщики и ES-6 модули](2-module-js/task12-builders/readme.md)
+- [Задание 13: Дата и время](2-module-js/task13-datetime/readme.md)
+- [Задание 14: Gulp](2-module-js/task14-gulp/readme.md)
