@@ -19,6 +19,7 @@
 - [Препроцессоры и онлайн-редакторы](1-module-html/sass-codesandbox/readme.md)
 - [БЭМ](1-module-html/bem/readme.md)
 - [CSS Shapes и SVG](1-module-html/svg/readme.md)
+- [Вёрстка страниц](1-module-html/layout/readme.md)
 
 ---
 
