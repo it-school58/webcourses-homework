@@ -2,12 +2,14 @@
 ## Трансформация и фильтры
 
 > **⚡️ Домашнее задание #1**
+
 - Сделать подобную трансформацию (по наведению три линии превращаются в крестик)
 - [Ссылка](https://codepen.io/Sergeenkov/pen/JZpEBL)
 
 <img src="./img/img1.png" />
 
 > **⚡️ Домашнее задание #2**
+
 - Верстка секции. [Ссылка](http://www.templatemonsterpreview.com/ru/demo/101096.html)
 
 <img src="./img/img2.png" />
