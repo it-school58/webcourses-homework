@@ -3,7 +3,7 @@
 
 > **⚡️ Домашнее задание #1**
 
-- Пройти игру. [Ссылка](https://cssgridgarden.com/#ru)
+- Пройти игру CssGridGarden. [Ссылка](https://cssgridgarden.com/#ru)
 
 > **⚡️ Домашнее задание #2**
 

@@ -3,8 +3,8 @@
 
 > **⚡️ Домашнее задание #1**
 
-- Пройти игру. [Ссылка](https://flexboxfroggy.com/#ru)
-- Пройти игру. [Ссылка](http://www.flexboxdefense.com/)
+- Пройти игру Flexboxfroggy. [Ссылка](https://flexboxfroggy.com/#ru)
+- Пройти игру Flexboxdefense. [Ссылка](http://www.flexboxdefense.com/)
 - Сверстать часть страницы, используя Flexbox
 
 <img src="./img/img1.png" />
