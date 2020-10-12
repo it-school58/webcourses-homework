@@ -2,7 +2,7 @@
 ## Position
 
 > **⚡️ Домашнее задание**
-- Сверстать страницу по примеру https://danilevs.github.io/HomeWork/6/Example.html
+- Сверстать страницу по примеру. [Ссылка](https://danilevs.github.io/HomeWork/6/Example.html)
 - Текст любой, Картинка любая
 
 ---

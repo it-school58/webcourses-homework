@@ -2,7 +2,7 @@
 ##  Видео
 
 > **⚡️ Домашнее задание #1**
-- Сверстать страницу по примеру: https://www.templatemonster.com/demo/76333.html
+- Сверстать страницу по примеру. [Ссылка](https://www.templatemonster.com/demo/76333.html)
 - Верстаем только указанные секции
 
 <img src="./img/img1.png" />

@@ -3,12 +3,12 @@
 
 > **⚡️ Домашнее задание #1**
 - Сделать подобную трансформацию (по наведению три линии превращаются в крестик)
-- https://codepen.io/Sergeenkov/pen/JZpEBL
+- [Ссылка](https://codepen.io/Sergeenkov/pen/JZpEBL)
 
 <img src="./img/img1.png" />
 
 > **⚡️ Домашнее задание #2**
-- Верстка секции из http://www.templatemonsterpreview.com/ru/demo/101096.html
+- Верстка секции. [Ссылка](http://www.templatemonsterpreview.com/ru/demo/101096.html)
 
 <img src="./img/img2.png" />
 

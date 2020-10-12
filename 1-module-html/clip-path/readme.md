@@ -3,5 +3,5 @@
 
 > **⚡️ Домашнее задание**
 - С помощью clip-path и абсолютного позиционирования создать мозаику из картинок. Каждая картинка при наведении увеличивается
-- Пример https://danilevs.github.io/HomeWork/14/index.html
-- Код для вырезания фигур можно скопировать отсюда https://bennettfeely.com/clippy/
+- Пример. [Ссылка](https://danilevs.github.io/HomeWork/14/index.html)
+- Код для вырезания фигур можно скопировать отсюда. [Ссылка](https://bennettfeely.com/clippy/)

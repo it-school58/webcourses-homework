@@ -2,8 +2,8 @@
 ## Flexbox
 
 > **⚡️ Домашнее задание #1**
-- Пройти игру https://flexboxfroggy.com/#ru
-- Пройти игру http://www.flexboxdefense.com/
+- Пройти игру. [Ссылка](https://flexboxfroggy.com/#ru)
+- Пройти игру. [Ссылка](http://www.flexboxdefense.com/)
 - Сверстать часть страницы, используя Flexbox
 
 <img src="./img/img1.png" />
