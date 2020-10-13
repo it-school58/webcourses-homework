@@ -5,6 +5,7 @@
 - [Прозрачность, блочные и строчные элементы](1-module-html/opacity-block/readme.md)
 - [Flexbox](1-module-html/flexbox/readme.md)
 - [Создание меню (ссылки, списки, hover, transition)](1-module-html/menu/readme.md)
+- [header](1-module-html/header/readme.md)
 - [Position](1-module-html/layout-position/readme.md)
 - [Видео](1-module-html/layout-video/readme.md)
 - [Формы](1-module-html/form/readme.md)
