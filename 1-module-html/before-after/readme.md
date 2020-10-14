@@ -15,7 +15,8 @@
 
 <img src="./img/img2.jpg" width="300px" />
 
-- Базовый HTML (менять нельзя). Стили нужно прописывать в файле index.css 
+- Базовый HTML (менять нельзя). Стили нужно прописывать в файле index.css
+
 ```html
 <!DOCTYPE html>
 <html>
