@@ -5,7 +5,7 @@
 - [Прозрачность, блочные и строчные элементы](1-module-html/opacity-block/readme.md)
 - [Flexbox](1-module-html/flexbox/readme.md)
 - [Создание меню (ссылки, списки, hover, transition)](1-module-html/menu/readme.md)
-- [Header](1-module-html/header/readme.md)
+- [Верстка секции "Header"](1-module-html/header/readme.md)
 - [Position](1-module-html/layout-position/readme.md)
 - [Chrome DevTools](1-module-html/chrome-dev-tools/readme.md)
 - [Псевдоэлементы before и after](1-module-html/before-after/readme.md)
