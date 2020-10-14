@@ -7,6 +7,10 @@
 - [Создание меню (ссылки, списки, hover, transition)](1-module-html/menu/readme.md)
 - [Header](1-module-html/header/readme.md)
 - [Position](1-module-html/layout-position/readme.md)
+
+- [Chrome DevTools](1-module-html/chrome-dev-tools/readme.md)
+- [Псевдоэлементы before и after](1-module-html/before-after/readme.md)
+
 - [Видео](1-module-html/layout-video/readme.md)
 - [Формы](1-module-html/form/readme.md)
 - [Адаптивность и CSS Grid](1-module-html/grid/readme.md)
