@@ -7,7 +7,7 @@
 - [Создание меню (ссылки, списки, hover, transition)](1-module-html/menu/readme.md)
 - [Верстка секции "Header"](1-module-html/header/readme.md)
 - [Position](1-module-html/layout-position/readme.md)
-- [Использование Таблиц](1-module-html/Table/readme.md)
+- [Таблицы](1-module-html/table/readme.md)
 - [Chrome DevTools](1-module-html/chrome-dev-tools/readme.md)
 - [Псевдоэлементы before и after](1-module-html/before-after/readme.md)
 - [Видео](1-module-html/layout-video/readme.md)
