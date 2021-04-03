@@ -45,4 +45,4 @@
 
 - Сверстать похожую структуру
 
-<img src="./img/img3.png" />
+<img src="./img/img3.jpg" />
